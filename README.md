@@ -99,13 +99,44 @@ Customer churn is a major challenge for energy providers. Acquiring new customer
 
 ## Repository Structure
 
-Data/
-Tasks-notebook/
-Executive Summary/
-certificate/
-README.md
+## Repository Structure
 
----
+```text
+BCG-X-Data-Science-Virtual-Internship/
+│
+├── data/
+│   ├── client_data.csv
+│   └── price_data.csv
+│   ├── clean_data_after_eda.csv
+│   └── data_for_predictions.csv
+│
+├── Tasks-notebooks/
+│   ├── Task1_Email.md
+│   ├── Task2_EDA.ipynb
+│   └── Task3_Ans_Feature_Engineering.ipynb
+|   └── Task4_Ans_Modeling.ipynb
+│
+├── executive summary/
+│   └── Executive_Summary.pdf
+│
+├── certificate/
+│   └── BCGX_DataScience_Certificate.pdf
+│
+└── README.md
+```
+
+### Folder Description
+
+| Folder            | Description                                                                            |
+| ----------------- | -------------------------------------------------------------------------------------- |
+| data              | Contains datasets used for analysis and modeling                                       |
+| Tasks-notebooks   | Document, Jupyter notebooks for email, EDA, feature engineering, and machine learning  |
+| executive_summary | Final business recommendations and project summary                                     |
+| certificate       | Forage completion certificate                                                          |
+| README.md         | Project overview, methodology, findings, and repository documentation                  |
+
+```
+
 
 ## Skills Demonstrated
 
