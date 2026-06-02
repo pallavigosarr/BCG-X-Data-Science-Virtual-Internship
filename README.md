@@ -116,10 +116,10 @@ BCG-X-Data-Science-Virtual-Internship/
 │   └── Task3_Ans_Feature_Engineering.ipynb
 |   └── Task4_Ans_Modeling.ipynb
 │
-├── executive summary/
+├── Executive summary/
 │   └── Executive_Summary.pdf
 │
-├── certificate/
+├── Certificate/
 │   └── BCGX_DataScience_Certificate.pdf
 │
 └── README.md
