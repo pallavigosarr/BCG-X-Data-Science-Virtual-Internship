@@ -135,7 +135,7 @@ BCG-X-Data-Science-Virtual-Internship/
 | certificate       | Forage completion certificate                                                          |
 | README.md         | Project overview, methodology, findings, and repository documentation                  |
 
-```
+
 
 
 ## Skills Demonstrated
